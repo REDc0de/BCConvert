@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B058CC701F472B0100C625B8 /* Keyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B058CC6F1F472B0100C625B8 /* Keyboard.swift */; };
 		B099E3971F4722B600578D07 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B099E3961F4722B600578D07 /* AppDelegate.swift */; };
 		B099E3991F4722B600578D07 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B099E3981F4722B600578D07 /* ViewController.swift */; };
 		B099E39C1F4722B600578D07 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B099E39A1F4722B600578D07 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B058CC6F1F472B0100C625B8 /* Keyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keyboard.swift; sourceTree = "<group>"; };
 		B099E3931F4722B600578D07 /* Currency Converter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Currency Converter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B099E3961F4722B600578D07 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B099E3981F4722B600578D07 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			children = (
 				B099E3961F4722B600578D07 /* AppDelegate.swift */,
 				B099E3981F4722B600578D07 /* ViewController.swift */,
+				B058CC6F1F472B0100C625B8 /* Keyboard.swift */,
 				B099E39A1F4722B600578D07 /* Main.storyboard */,
 				B099E3A01F4722B600578D07 /* Assets.xcassets */,
 				B099E3A21F4722B600578D07 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				B099E3991F4722B600578D07 /* ViewController.swift in Sources */,
 				B099E39F1F4722B600578D07 /* Currency_Converter.xcdatamodeld in Sources */,
+				B058CC701F472B0100C625B8 /* Keyboard.swift in Sources */,
 				B099E3971F4722B600578D07 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
